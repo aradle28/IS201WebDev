@@ -1,0 +1,28 @@
+.header{
+    margin:0% auto;
+    height: 40px;
+    background-color: lightgray;
+    line-height:10px;
+    
+}
+
+.common{
+    text-align: center;
+    width: auto;
+    
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.footer{
+    margin:0% auto;
+    height: 20px auto;
+    background-color: black;
+    color:white;
+}
+
+
+
+
+
+
+
